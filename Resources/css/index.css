@@ -4,7 +4,7 @@
     font-family: helvetica;
     font-weight: bold;
     font-size: 100px;
-    color: Khaki;
+    color: khaki;
 }
 
 #brushes {
@@ -29,7 +29,7 @@ h3 {
 
 .header {
     font-family: helvetica;
-    font-size: 1em;
+    font-size: 32px;
     font-weight: bold;
     color: white;
 }
